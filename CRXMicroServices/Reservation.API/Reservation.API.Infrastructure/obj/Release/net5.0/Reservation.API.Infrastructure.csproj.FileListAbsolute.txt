@@ -1,0 +1,15 @@
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\bin\Release\net5.0\Reservation.API.Infrastructure.deps.json
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\bin\Release\net5.0\Reservation.API.Infrastructure.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\bin\Release\net5.0\ref\Reservation.API.Infrastructure.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\bin\Release\net5.0\Reservation.API.Infrastructure.pdb
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\bin\Release\net5.0\Reservation.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\bin\Release\net5.0\Reservation.API.Models.pdb
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.AssemblyInfo.cs
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.csproj.CopyComplete
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\ref\Reservation.API.Infrastructure.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Reservation.API\Reservation.API.Infrastructure\obj\Release\net5.0\Reservation.API.Infrastructure.pdb

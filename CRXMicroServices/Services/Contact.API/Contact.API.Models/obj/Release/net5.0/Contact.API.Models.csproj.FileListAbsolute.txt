@@ -1,0 +1,11 @@
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\bin\Release\net5.0\Contact.API.Models.deps.json
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\bin\Release\net5.0\Contact.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\bin\Release\net5.0\ref\Contact.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\bin\Release\net5.0\Contact.API.Models.pdb
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\Contact.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\Contact.API.Models.AssemblyInfoInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\Contact.API.Models.AssemblyInfo.cs
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\Contact.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\Contact.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\ref\Contact.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Models\obj\Release\net5.0\Contact.API.Models.pdb

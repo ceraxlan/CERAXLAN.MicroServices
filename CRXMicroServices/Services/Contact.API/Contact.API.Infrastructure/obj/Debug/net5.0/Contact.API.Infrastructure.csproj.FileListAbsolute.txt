@@ -1,0 +1,5 @@
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.AssemblyInfo.cs
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Contact.API\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.csproj.CoreCompileInputs.cache

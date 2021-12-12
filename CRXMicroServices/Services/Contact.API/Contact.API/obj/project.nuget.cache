@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2djmo5yPY1VF9UPvAgNEXxTRWF8j/vkTHdMitp/3n3CXui7fXwSGUdZxMKfr7M8rUeu6Am6+zYCNq0A/dAzVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\er_as\\Documents\\GitHub\\CERAX_P_MicroServices\\CRXMicroServices\\Services\\Contact.API\\Contact.API\\Contact.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\er_as\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\er_as\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\er_as\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\er_as\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\er_as\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\er_as\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\er_as\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

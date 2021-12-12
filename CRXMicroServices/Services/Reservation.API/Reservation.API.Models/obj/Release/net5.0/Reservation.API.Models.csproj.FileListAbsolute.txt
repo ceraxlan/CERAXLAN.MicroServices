@@ -1,0 +1,11 @@
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\bin\Release\net5.0\Reservation.API.Models.deps.json
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\bin\Release\net5.0\Reservation.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\bin\Release\net5.0\ref\Reservation.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\bin\Release\net5.0\Reservation.API.Models.pdb
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\Reservation.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\ref\Reservation.API.Models.dll
+C:\Users\er_as\Documents\GitHub\CERAX_P_MicroServices\CRXMicroServices\Services\Reservation.API\Reservation.API.Models\obj\Release\net5.0\Reservation.API.Models.pdb
